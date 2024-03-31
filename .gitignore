@@ -1,4 +1,4 @@
-# Common
+# Common test
 composer.phar
 .DS_Store
 .idea
@@ -27,3 +27,4 @@ nbproject
 # Project
 /bootstrap/compiled.php
 /vendor
+/modules
